@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/global.css"],"sourcesContent":["\n:root {\n  --cowin-teal: #007a7a;\n}\nbody {\n  margin: 0;\n  padding: 0;\n  background-color: #f8fcfc;\n  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n}\n\n.bg-cowin-teal {\n  background-color: var(--cowin-teal) !important;\n}\n.text-teal {\n  color:var(--cowin-teal) !important ;\n}\n.milestone-card {\n  background-color: white;\n  border-radius: 12px;\n  display: inline-flex;\n  align-items: center;\n  padding: 10px 20px;\n  box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n  border: 2px solid #e67e22 !important; \n  background: #fff;\n}\n\n.navbar-brand span {\n  color: white;\n}\n.text-dark {\n  color: #212529 !important;\n}\n.hero-section {\n  overflow: visible !important;\n}\n\nimg.img-fluid {\n  display: block;\n  margin-left: auto;\n}"],"names":[],"mappings":"AACA;;;;AAGA;;;;;;;AAOA;;;;AAGA;;;;AAGA;;;;;;;;;;AAWA;;;;AAGA;;;;AAGA;;;;AAIA"}}]
+}

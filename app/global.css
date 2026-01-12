@@ -1,0 +1,42 @@
+
+:root {
+  --cowin-teal: #007a7a;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8fcfc;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.bg-cowin-teal {
+  background-color: var(--cowin-teal) !important;
+}
+.text-teal {
+  color:var(--cowin-teal) !important ;
+}
+.milestone-card {
+  background-color: white;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border: 2px solid #e67e22 !important; 
+  background: #fff;
+}
+
+.navbar-brand span {
+  color: white;
+}
+.text-dark {
+  color: #212529 !important;
+}
+.hero-section {
+  overflow: visible !important;
+}
+
+img.img-fluid {
+  display: block;
+  margin-left: auto;
+}

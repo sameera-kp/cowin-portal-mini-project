@@ -1,0 +1,48 @@
+/* [project]/app/global.css [app-client] (css) */
+:root {
+  --cowin-teal: #007a7a;
+}
+
+body {
+  background-color: #f8fcfc;
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+.bg-cowin-teal {
+  background-color: var(--cowin-teal) !important;
+}
+
+.text-teal {
+  color: var(--cowin-teal) !important;
+}
+
+.milestone-card {
+  background: #fff;
+  border-radius: 12px;
+  align-items: center;
+  padding: 10px 20px;
+  display: inline-flex;
+  box-shadow: 0 4px 6px #0000001a;
+  border: 2px solid #e67e22 !important;
+}
+
+.navbar-brand span {
+  color: #fff;
+}
+
+.text-dark {
+  color: #212529 !important;
+}
+
+.hero-section {
+  overflow: visible !important;
+}
+
+img.img-fluid {
+  margin-left: auto;
+  display: block;
+}
+
+/*# sourceMappingURL=app_global_css_bad6b30c._.single.css.map*/
