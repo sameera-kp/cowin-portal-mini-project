@@ -32,22 +32,13 @@ verlay](https://www.cowin.gov.in/assets/images/india-map-vaccination.svg)
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://git.upcode.in/upcode/sameera-kp.git](https://git.upcode.in/upcode/sameera-kp.git)
+  git clone  [https://git.upcode.in/upcode/sameera-kp.git]
    cd cowin-portal
+# 2. Navigate to the project directory
+cd nexus-commerce-engine
 
-  Install dependencies:
-
-Bash
+# 3. Install dependencies
 npm install
 
-Run the development server:
-
-Bash
+# 4. Start the development server
 npm run dev
-Open http://localhost:3000 with your browser to see the result.
-
-Build for production:
-
-Bash
-npm run build
