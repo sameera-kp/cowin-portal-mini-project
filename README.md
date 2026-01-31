@@ -30,7 +30,7 @@ verlay](https://www.cowin.gov.in/assets/images/india-map-vaccination.svg)
 *Note: The UI mimics the official vaccination journey of India.*
 
 ## ⚙️ Installation & Setup
-'''
+
 1. **Clone the repository:**
   git clone  [https://git.upcode.in/upcode/sameera-kp.git]
    cd cowin-portal
@@ -42,3 +42,8 @@ npm install
 
 # 4. Start the development server
 npm run dev
+``` 
+5. Open in browser
+Visit http://localhost:3000 to see the application in action.
+
+Developed by Sameera KP
