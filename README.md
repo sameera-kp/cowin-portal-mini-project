@@ -31,7 +31,7 @@ verlay](https://www.cowin.gov.in/assets/images/india-map-vaccination.svg)
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
-   git clone https://git.upcode.in/upcode/sameera-kp.git
+   git clone https://github.com/sameera-kp/cowin-portal-mini-project.git
    
 # 2. Navigate to the project directory
    cd cowin-portal
